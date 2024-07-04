@@ -2,7 +2,7 @@
   "name": "drag-and-drop-todo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/zpdl95/drag-and-drop-todo-app",
+  "homepage": "https://zpdl95.github.io/drag-and-drop-todo-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
