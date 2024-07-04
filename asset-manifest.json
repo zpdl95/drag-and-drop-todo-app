@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/zpdl95/drag-and-drop-todo-app/static/js/main.a42969a1.js",
-    "index.html": "/zpdl95/drag-and-drop-todo-app/index.html",
-    "main.a42969a1.js.map": "/zpdl95/drag-and-drop-todo-app/static/js/main.a42969a1.js.map"
+    "main.js": "/drag-and-drop-todo-app/static/js/main.ff0fc228.js",
+    "index.html": "/drag-and-drop-todo-app/index.html",
+    "main.ff0fc228.js.map": "/drag-and-drop-todo-app/static/js/main.ff0fc228.js.map"
   },
   "entrypoints": [
-    "static/js/main.a42969a1.js"
+    "static/js/main.ff0fc228.js"
   ]
 }
